@@ -1,0 +1,33 @@
+body{
+    background-image: url(bg.jpeg);
+    background-size: 100%;
+}
+
+h1{
+    text-align: center;
+    color: gold;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    text-align: center;
+
+}
+
+#second{
+margin-left: 50px;
+font-size: larger;
+}
+
+#third{
+font-size: larger;
+margin-left: 440px;
+
+}
+
+#forth{
+margin-right: 50px;
+    float: right;
+font-size: larger;
+}
